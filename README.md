@@ -21,13 +21,28 @@ Barueri/SP
 
 ## Competências
 
+|--------------------- |
+| +  |  +  |  +  |  +  |
+|--------------------- |
+[Basic - Intermediate - Advanced - High Level]
+
 **Mobile:** +++-
+* iOS: Swift
+    -TODO
+    - e.g. REST APIs 
+    - e.g network requests
+* Android: Java e Kotlin
+    -TODO
+    - 
+    -
 
 
-**BackEnd:** +---
-
-
-**FrontEnd:** +---
+**Web:** +---
+* Javascript
+* HTML/CSS
+* Node.JS
+* Bootstrap
+* PHP
 
 
 
@@ -36,6 +51,7 @@ Barueri/SP
 
 **Outros:**
 * Análise e design de algoritmos *
+* Orientação à Objetos
 * Versionamento de Código (Github, Bitbucket) *
 * Scrum * 
 * Kanban *
