@@ -26,10 +26,12 @@ Barueri/SP
     -TODO
     - e.g. REST APIs 
     - e.g network requests
+
 * Android: Java e Kotlin
     -TODO
-    - 
-    -
+    - e.g. REST APIs 
+    - e.g network requests
+
 
 
 **Web:** +---
@@ -45,13 +47,13 @@ Barueri/SP
 
 
 **Outros:**
-* Análise e design de algoritmos *
+* Análise e design de algoritmos 
 * Orientação à Objetos
-* Versionamento de Código (Github, Bitbucket) *
-* Scrum * 
-* Kanban *
-* Ferramentas de gestão de projetos (Jira) *
-* Experiência com processamento de imagens *
+* Versionamento de Código (Github, Bitbucket) 
+* Scrum 
+* Kanban
+* Ferramentas de gestão de projetos (Jira)
+* Experiência com processamento de imagens
 
 
 ---
