@@ -21,11 +21,6 @@ Barueri/SP
 
 ## Competências
 
-|--------------------- |
-| +  |  +  |  +  |  +  |
-|--------------------- |
-[Basic - Intermediate - Advanced - High Level]
-
 **Mobile:** +++-
 * iOS: Swift
     -TODO
