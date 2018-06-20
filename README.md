@@ -60,3 +60,9 @@ Barueri/SP
 
 ## Experência Profissional
 TODO
+
+
+---
+
+## Formação
+TODO
