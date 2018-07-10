@@ -77,16 +77,16 @@ Barueri/SP
 ## Experência Profissional
 
 **Natura | Estagiário de Desenvolvimento | São Paulo – Brasil**
-Aplicações Android e iOS
-Metodologias Ágeis - Kanban e Scrum
-Ferramentas de gestão de projetos
+- Aplicações Android e iOS
+- Metodologias Ágeis - Kanban e Scrum
+- Ferramentas de gestão de projetos
 
 **University of Illinois - Chicago | Estagiário de pesquisa | Chicago – Illinois – United States**
-Aplicações de Computação Gráfica
-Processamento de Imagens
-Uso de câmeras de profundidade para o rastreio de instrumentos
+- Aplicações de Computação Gráfica
+- Processamento de Imagens
+- Uso de câmeras de profundidade para o rastreio de instrumentos
 
 **BSE Technology | Desenvolvedor | Barueri – São Paulo – Brasil**
-Desenvolvimento de Software
-Aplicações mobile customizadas de acordo com as necessidades de cada cliente
+- Desenvolvimento de Software
+- Aplicações mobile customizadas de acordo com as necessidades de cada cliente
 
