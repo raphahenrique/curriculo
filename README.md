@@ -63,13 +63,14 @@ Barueri/SP
 ---
 
 ## Formação
+
 **Universidade Federal de São Carlos - São Carlos – São Paulo - Brazil**
-    - Graduação: Ciência da Computação
-    - Março 2013 – Julho 2018
+- Graduação: Ciência da Computação
+- Março 2013 – Julho 2018
 
 **University of Missouri – Kansas City - Missouri - US**
-    - Graduação: Ciência da Computação
-    - Agosto 2014 – Maio 2015
+- Graduação: Ciência da Computação
+- Agosto 2014 – Maio 2015
 
 ---
 
