@@ -6,7 +6,7 @@ Barueri/SP
 ## Software Developer
 
 
-**Telefone:** (11) 97188-1648
+**Telefone:** (11) 97188-****
 
 **E-mail:** raphael.henrique@live.com
 
@@ -44,6 +44,10 @@ Barueri/SP
 
 
 **Banco de Dados:**
+* MySQL
+* SQLServer
+* Firebase Cloud Database
+
 
 
 **Outros:**
@@ -53,16 +57,35 @@ Barueri/SP
 * Scrum 
 * Kanban
 * Ferramentas de gestão de projetos (Jira)
-* Experiência com processamento de imagens
-
-
----
-
-## Experência Profissional
-TODO
+* Experiência com processamento de imagens (OpenCV)
 
 
 ---
 
 ## Formação
-TODO
+**Universidade Federal de São Carlos - São Carlos – São Paulo - Brazil**
+    - Graduação: Ciência da Computação
+    - Março 2013 – Julho 2018
+
+**University of Missouri – Kansas City - Missouri - US**
+    - Graduação: Ciência da Computação
+    - Agosto 2014 – Maio 2015
+
+---
+
+## Experência Profissional
+
+**Natura | Estagiário de Desenvolvimento | São Paulo – Brasil**
+Aplicações Android e iOS
+Metodologias Ágeis - Kanban e Scrum
+Ferramentas de gestão de projetos
+
+**University of Illinois - Chicago | Estagiário de pesquisa | Chicago – Illinois – United States**
+Aplicações de Computação Gráfica
+Processamento de Imagens
+Uso de câmeras de profundidade para o rastreio de instrumentos
+
+**BSE Technology | Desenvolvedor | Barueri – São Paulo – Brasil**
+Desenvolvimento de Software
+Aplicações mobile customizadas de acordo com as necessidades de cada cliente
+
